@@ -1,0 +1,1 @@
+                                |{extended_string_data_{{INDEX}}} -> { networkplace with extended_string_data_{{INDEX}}=value}
